@@ -1,0 +1,152 @@
+2017-Sep-07 01:43:28.959605 INFO [daemon] una v1.1.1.1()
+2017-Sep-07 01:43:28.959752 INFO [daemon] Module folder: ./unad
+2017-Sep-07 01:43:28.959801 INFO [daemon] Starting in testnet mode!
+2017-Sep-07 01:43:28.960317 INFO [miner] Mining has been stopped, 0 finished
+2017-Sep-07 01:43:28.960496 ERROR [daemon] Exception: Directory does not exist: new/path/to/blockchain
+2017-Sep-07 01:45:32.453095 INFO [daemon] una v1.1.1.1()
+2017-Sep-07 01:45:32.453423 INFO [daemon] Module folder: ./unad
+2017-Sep-07 01:45:32.453519 INFO [daemon] Starting in testnet mode!
+2017-Sep-07 01:45:32.454554 INFO [miner] Mining has been stopped, 0 finished
+2017-Sep-07 01:45:32.454957 ERROR [daemon] Exception: Directory does not exist: testuna/path/to/blockchain
+2017-Sep-07 01:46:24.252094 INFO [daemon] una v1.1.1.1()
+2017-Sep-07 01:46:24.252302 INFO [daemon] Module folder: ./unad
+2017-Sep-07 01:46:24.252400 INFO [daemon] Starting in testnet mode!
+2017-Sep-07 01:46:24.253090 INFO [miner] Mining has been stopped, 0 finished
+2017-Sep-07 01:46:24.253525 ERROR [daemon] Exception: Directory does not exist: testuna/path/to/blockchain
+2017-Sep-07 01:50:29.197495 INFO [daemon] una v1.1.1.1()
+2017-Sep-07 01:50:29.197794 INFO [daemon] Module folder: ./unad
+2017-Sep-07 01:50:29.197949 INFO [daemon] Starting in testnet mode!
+2017-Sep-07 01:50:29.199170 INFO [daemon] Initializing p2p server...
+2017-Sep-07 01:50:29.199295 INFO [node_server] Binding on 0.0.0.0:41615
+2017-Sep-07 01:50:29.199405 INFO [node_server] Net service binded on 0.0.0.0:41615
+2017-Sep-07 01:50:29.199478 INFO [node_server] Attempting to add IGD port mapping.
+2017-Sep-07 01:50:30.422805 INFO [node_server] Added IGD port mapping.
+2017-Sep-07 01:50:30.422981 INFO [daemon] P2p server initialized OK
+2017-Sep-07 01:50:30.423070 INFO [daemon] Initializing core...
+2017-Sep-07 01:50:30.423342 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2017-Sep-07 01:50:30.449151 INFO [Blockchain] Blockchain initialized. last block: 0, d1890.h18.m50.s30 time ago, current difficulty: 1
+2017-Sep-07 01:50:30.449219 INFO [daemon] Core initialized OK
+2017-Sep-07 01:50:30.449318 INFO [daemon] Starting core rpc server on address 127.0.0.1:41616
+2017-Sep-07 01:50:30.449398 INFO [daemon] Core rpc server started ok
+2017-Sep-07 01:50:30.449447 INFO [daemon] Starting p2p net loop...
+2017-Sep-07 01:50:30.449493 INFO [node_server] Starting node_server
+2017-Sep-07 01:50:30.449558 INFO [core] 
+2017-Sep-07 01:50:30.449558 INFO [core] **********************************************************************
+2017-Sep-07 01:50:30.449558 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Sep-07 01:50:30.449558 INFO [core] 
+2017-Sep-07 01:50:30.449558 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Sep-07 01:50:30.449558 INFO [core] 
+2017-Sep-07 01:50:30.449558 INFO [core] Use "help" command to see the list of available commands.
+2017-Sep-07 01:50:30.449558 INFO [core] 
+2017-Sep-07 01:50:30.449558 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Sep-07 01:50:30.449558 INFO [core] **********************************************************************
+2017-Sep-07 01:56:41.956481 INFO [node_server] Stop signal sent
+2017-Sep-07 01:56:41.956729 INFO [node_server] Stopping NodeServer and it's0 connections...
+2017-Sep-07 01:56:41.957039 INFO [node_server] NodeServer loop stopped
+2017-Sep-07 01:56:41.957150 INFO [daemon] p2p net loop stopped
+2017-Sep-07 01:56:41.957255 INFO [daemon] Stopping core rpc server...
+2017-Sep-07 01:56:41.957440 INFO [daemon] Deinitializing core...
+2017-Sep-07 01:56:41.957549 INFO [miner] Mining has been stopped, 0 finished
+2017-Sep-07 01:56:41.957796 INFO [Blockchain] Saving blockchain...
+2017-Sep-07 01:56:41.957959 INFO [BlockCacheSerializer] - saving block index...
+2017-Sep-07 01:56:41.958074 INFO [BlockCacheSerializer] - saving transaction map...
+2017-Sep-07 01:56:41.958177 INFO [BlockCacheSerializer] - saving spent keys...
+2017-Sep-07 01:56:41.958290 INFO [BlockCacheSerializer] - saving outputs...
+2017-Sep-07 01:56:41.958392 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2017-Sep-07 01:56:41.958494 INFO [BlockCacheSerializer] Serialization time: 0ms
+2017-Sep-07 01:56:41.958617 INFO [Blockchain] Saving blockchain indices...
+2017-Sep-07 01:56:41.958763 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2017-Sep-07 01:56:41.958871 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2017-Sep-07 01:56:41.958979 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2017-Sep-07 01:56:41.959105 INFO [daemon] Deinitializing p2p...
+2017-Sep-07 01:56:41.959371 INFO [miner] Mining has been stopped, 0 finished
+2017-Sep-07 01:56:41.959834 INFO [daemon] Node stopped.
+2017-Sep-07 02:40:48.490910 INFO [daemon] una v1.1.1.1()
+2017-Sep-07 02:40:48.491145 INFO [daemon] Module folder: ./unad
+2017-Sep-07 02:40:48.491252 INFO [daemon] Starting in testnet mode!
+2017-Sep-07 02:40:48.492235 INFO [daemon] Initializing p2p server...
+2017-Sep-07 02:40:48.492361 INFO [node_server] Binding on 0.0.0.0:41615
+2017-Sep-07 02:40:48.492433 INFO [node_server] Net service binded on 0.0.0.0:41615
+2017-Sep-07 02:40:48.492477 INFO [node_server] Attempting to add IGD port mapping.
+2017-Sep-07 02:40:49.542832 INFO [node_server] Added IGD port mapping.
+2017-Sep-07 02:40:49.543112 INFO [daemon] P2p server initialized OK
+2017-Sep-07 02:40:49.543234 INFO [daemon] Initializing core...
+2017-Sep-07 02:40:49.543474 INFO [Blockchain] Loading blockchain...
+2017-Sep-07 02:40:49.543713 INFO [BlockCacheSerializer] - loading block index...
+2017-Sep-07 02:40:49.543839 INFO [BlockCacheSerializer] - loading transaction map...
+2017-Sep-07 02:40:49.543953 INFO [BlockCacheSerializer] - loading spent keys...
+2017-Sep-07 02:40:49.544089 INFO [BlockCacheSerializer] - loading outputs...
+2017-Sep-07 02:40:49.544203 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2017-Sep-07 02:40:49.544313 INFO [BlockCacheSerializer] Serialization time: 0ms
+2017-Sep-07 02:40:49.544586 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2017-Sep-07 02:40:49.544768 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2017-Sep-07 02:40:49.544893 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2017-Sep-07 02:40:49.545003 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2017-Sep-07 02:40:49.545154 INFO [Blockchain] Blockchain initialized. last block: 0, d1890.h19.m40.s49 time ago, current difficulty: 1
+2017-Sep-07 02:40:49.545285 INFO [daemon] Core initialized OK
+2017-Sep-07 02:40:49.545492 INFO [daemon] Starting core rpc server on address 127.0.0.1:41616
+2017-Sep-07 02:40:49.545668 INFO [daemon] Core rpc server started ok
+2017-Sep-07 02:40:49.545794 INFO [daemon] Starting p2p net loop...
+2017-Sep-07 02:40:49.545902 INFO [node_server] Starting node_server
+2017-Sep-07 02:40:49.546056 INFO [core] 
+2017-Sep-07 02:40:49.546056 INFO [core] **********************************************************************
+2017-Sep-07 02:40:49.546056 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Sep-07 02:40:49.546056 INFO [core] 
+2017-Sep-07 02:40:49.546056 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Sep-07 02:40:49.546056 INFO [core] 
+2017-Sep-07 02:40:49.546056 INFO [core] Use "help" command to see the list of available commands.
+2017-Sep-07 02:40:49.546056 INFO [core] 
+2017-Sep-07 02:40:49.546056 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Sep-07 02:40:49.546056 INFO [core] **********************************************************************
+2017-Sep-07 02:49:09.053053 INFO [daemon] una v1.1.1.1()
+2017-Sep-07 02:49:09.053390 INFO [daemon] Module folder: ./unad
+2017-Sep-07 02:49:09.054690 INFO [daemon] Initializing p2p server...
+2017-Sep-07 02:49:09.054913 INFO [node_server] Binding on 0.0.0.0:41615
+2017-Sep-07 02:49:09.055097 INFO [node_server] Net service binded on 0.0.0.0:41615
+2017-Sep-07 02:49:09.055219 INFO [node_server] Attempting to add IGD port mapping.
+2017-Sep-07 02:49:10.101066 INFO [node_server] Added IGD port mapping.
+2017-Sep-07 02:49:10.101303 INFO [daemon] P2p server initialized OK
+2017-Sep-07 02:49:10.101416 INFO [daemon] Initializing core...
+2017-Sep-07 02:49:10.101744 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2017-Sep-07 02:49:10.127934 INFO [Blockchain] Blockchain initialized. last block: 0, d1890.h19.m49.s10 time ago, current difficulty: 1
+2017-Sep-07 02:49:10.128005 INFO [daemon] Core initialized OK
+2017-Sep-07 02:49:10.128267 INFO [daemon] Starting core rpc server on address 127.0.0.1:41616
+2017-Sep-07 02:49:10.128376 INFO [daemon] Core rpc server started ok
+2017-Sep-07 02:49:10.128430 INFO [daemon] Starting p2p net loop...
+2017-Sep-07 02:49:10.128524 INFO [node_server] Starting node_server
+2017-Sep-07 02:49:10.128646 INFO [core] 
+2017-Sep-07 02:49:10.128646 INFO [core] **********************************************************************
+2017-Sep-07 02:49:10.128646 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Sep-07 02:49:10.128646 INFO [core] 
+2017-Sep-07 02:49:10.128646 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Sep-07 02:49:10.128646 INFO [core] 
+2017-Sep-07 02:49:10.128646 INFO [core] Use "help" command to see the list of available commands.
+2017-Sep-07 02:49:10.128646 INFO [core] 
+2017-Sep-07 02:49:10.128646 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Sep-07 02:49:10.128646 INFO [core] **********************************************************************
+2017-Sep-07 13:13:48.931301 INFO [daemon] una v1.1.1.1()
+2017-Sep-07 13:13:48.948671 INFO [daemon] Module folder: ./unad
+2017-Sep-07 13:13:48.949236 INFO [daemon] Initializing p2p server...
+2017-Sep-07 13:13:48.949595 INFO [node_server] Binding on 0.0.0.0:41615
+2017-Sep-07 13:13:48.949682 INFO [node_server] Net service binded on 0.0.0.0:41615
+2017-Sep-07 13:13:48.949745 INFO [node_server] Attempting to add IGD port mapping.
+2017-Sep-07 13:13:50.010601 INFO [node_server] Added IGD port mapping.
+2017-Sep-07 13:13:50.010881 INFO [daemon] P2p server initialized OK
+2017-Sep-07 13:13:50.011031 INFO [daemon] Initializing core...
+2017-Sep-07 13:13:50.011671 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2017-Sep-07 13:13:50.028935 INFO [Blockchain] Blockchain initialized. last block: 0, d1891.h6.m13.s50 time ago, current difficulty: 1
+2017-Sep-07 13:13:50.028997 INFO [daemon] Core initialized OK
+2017-Sep-07 13:13:50.029117 INFO [daemon] Starting core rpc server on address 127.0.0.1:41616
+2017-Sep-07 13:13:50.029241 INFO [daemon] Core rpc server started ok
+2017-Sep-07 13:13:50.029307 INFO [daemon] Starting p2p net loop...
+2017-Sep-07 13:13:50.029365 INFO [node_server] Starting node_server
+2017-Sep-07 13:13:50.029423 INFO [core] 
+2017-Sep-07 13:13:50.029423 INFO [core] **********************************************************************
+2017-Sep-07 13:13:50.029423 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Sep-07 13:13:50.029423 INFO [core] 
+2017-Sep-07 13:13:50.029423 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Sep-07 13:13:50.029423 INFO [core] 
+2017-Sep-07 13:13:50.029423 INFO [core] Use "help" command to see the list of available commands.
+2017-Sep-07 13:13:50.029423 INFO [core] 
+2017-Sep-07 13:13:50.029423 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Sep-07 13:13:50.029423 INFO [core] **********************************************************************
