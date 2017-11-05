@@ -1,11 +1,2 @@
-2017-Sep-07 01:40:45.970970 INFO [simplewallet] una wallet v1.1.1.1()
-2017-Sep-07 01:41:55.203597 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:41616).
-2017-Sep-07 01:41:55.230103 INFO [simplewallet] Generated new wallet: Yx1JMb7LzLYfHjn3kqPZapfXhpqcwX6wMhCz5m8YmLjM5o1HqABes5HYL955sFEYLkQ1UWTfDbeG6FbVPpBvJp8X2BCcnMD72
-2017-Sep-07 01:41:55.230103 INFO [simplewallet] view key: 19a988487a4b31f4204e08aeb271f762a993c641f5c0d5b4f34d8c737da1ec06
-2017-Sep-07 01:41:55.230242 INFO [simplewallet] **********************************************************************
-Your wallet has been generated.
-Use "help" command to see the list of available commands.
-Always use "exit" command when closing simplewallet to save
-current session's state. Otherwise, you will possibly need to synchronize 
-your wallet again. Your wallet key is NOT under risk anyway.
-**********************************************************************
+2017-Nov-01 03:47:49.722282 INFO [simplewallet] una wallet v0.0.1.1()
+2017-Nov-01 03:47:53.584745 ERROR [simplewallet] Failed to initialize wallet
